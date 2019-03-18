@@ -1,3 +1,6 @@
+// https://www.myphysicslab.com/pendulum/double-pendulum-en.html
+// https://youtu.be/d0Z8wLLPNE0
+
 var canvas, context;
 var time;
 var deltaTime;
